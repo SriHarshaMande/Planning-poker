@@ -1,0 +1,5 @@
+
+{
+  "name": "Planning Poker",
+  "description": "An Agile estimation tool that replicates the functionality of PlanitPoker, enhanced with AI-powered user story generation using the Gemini API. Facilitate real-time, collaborative sprint planning with a clean and intuitive interface."
+}
